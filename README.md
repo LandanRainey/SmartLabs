@@ -20,24 +20,24 @@ data from the other nodes and presenting it graphically on a
 web server that can be accessed remotely.
 
 # Project Impact
-This system can:
+This system can:  
 ● Aid faculty in analyzing long-term trends and correlating
 environmental factors with student engagement to optimize
-laboratory usage;
+laboratory usage;  
 ● Enable students to remotely check any lab’s capacity,
-facilitating optimal entry times;
+facilitating optimal entry times;  
 ● Assist lab administrators to ensure correct operation of air
-conditioning equipment.
+conditioning equipment.  
 
 # Status
-● PERCH node sensor integration/development: Completed
-● PERCH node firmware testing: Completed
-● OWL node sensor integrationt: Completed
-● OWL node testing: Completed
-● Database creation on NEST node: Completed
-● Network communication to NEST: Completed
-● NEST webserver UI: In-Progress
-● OWL occupancy detection algorithm: In-Progress
+● PERCH node sensor integration/development: Completed  
+● PERCH node firmware testing: Completed  
+● OWL node sensor integrationt: Completed  
+● OWL node testing: Completed  
+● Database creation on NEST node: Completed  
+● Network communication to NEST: Completed  
+● NEST webserver UI: In-Progress  
+● OWL occupancy detection algorithm: In-Progress  
 
 # Acknowledgements
 We would like to acknowledge the guidance and sponsorship that has
