@@ -1,10 +1,10 @@
 # SmartLabs
 Senior Project to monitor room occupancy and quality of life data
 # COLLABORATORS
-Landan Rainey
-Fernando Guerrero
-Steven Cornelius
-Kolby Hyatt
+Landan Rainey,
+Fernando Guerrero,
+Steven Cornelius,
+Kolby Hyatt,
 Thomas Morrow
 
 # Project Overview
